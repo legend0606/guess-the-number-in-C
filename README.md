@@ -1,2 +1,2 @@
-# guess-the-number-in-C
-This is my First project in C
+# projects in c
+I will be posting all my projects on C here.
